@@ -44,7 +44,7 @@
         
         combo_j {
             timeout-ms = <50>;
-            key-positions = <11 21>;
+            key-positions = <3 4u>;
             bindings = <&kp J>;
         };
         
@@ -80,19 +80,19 @@
 
         combo_cpar {
             timeout-ms = <50>;
-            key-positions = <4 12>;
+            key-positions = <3 12>;
             bindings = <&kp RPAR>;
         };
 
         combo_ccb {
             timeout-ms = <50>;
-            key-positions = <5 13>;
+            key-positions = <4 13>;
             bindings = <&kp RBRC>;
         };
 
         combo_csb {
             timeout-ms = <50>;
-            key-positions = <6 14>;
+            key-positions = <5 14>;
             bindings = <&kp RBKT>;
         };
 
