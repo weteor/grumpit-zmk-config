@@ -44,7 +44,7 @@
         
         combo_j {
             timeout-ms = <50>;
-            key-positions = <3 4u>;
+            key-positions = <3 4>;
             bindings = <&kp J>;
         };
         
